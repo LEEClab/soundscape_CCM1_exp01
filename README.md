@@ -9,7 +9,7 @@ This repository presents all data base used in Hilasaca et al. (2021), published
 The region under study hosts the Long-Term Ecological Research project in the Ecological Corridor of Cantareira-Mantiqueira (LTER-CCM or Pesquisa Ecológica de Longa Duração-PELD CCM in Portuguese), localized in the transition between northeastern São Paulo state and south Minas Gerais state - Brazil.
 
 <p align="center"> 
-<img width="550" src="/soundscape_CCM1_exp01/images/ajust_map_2021_01_d05_500dpi.png">
+<img width="1050" src="https://github.com/LEEClab/soundscape_CCM1_exp01/blob/main/ajust_map_2021_01_d05_500dpi.png">
 </p> 
 
 # Experimental design and sound recordings
