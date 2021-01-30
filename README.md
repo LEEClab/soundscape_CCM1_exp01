@@ -7,6 +7,7 @@ This repository presents all data base used in Hilasaca et al. (2021), published
 # Data collect
 
 The region under study hosts the Long-Term Ecological Research project in the Ecological Corridor of Cantareira-Mantiqueira (LTER-CCM or Pesquisa Ecológica de Longa Duração-PELD CCM in Portuguese), localized in the transition between northeastern São Paulo state and south Minas Gerais state - Brazil.
+The region is considered as a conservation priority because it connects two important highly forested blocks, the Cantareira and the Mantiqueira. Landscapes are composed by forest in different succession stages, agriculture, forestry plantation (mainly Eucalyptus spp.), swamps, water, roads, villages and larger urban areas. The region is part of Atlantic Forest biodiversity hotspot, where habitat loss and fragmentation reduced forest cover to about 16%, with remnants reduced in size (84% is < 50 ha), highly isolated (average isolation c.a. 1,440 m) and high edge effect (50%) of forests are less than 100 m from any edge.
 
 <p align="center"> 
 <img width="1050" src="https://github.com/LEEClab/soundscape_CCM1_exp01/blob/main/ajust_map_2021_01_d05_500dpi.png">
