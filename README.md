@@ -24,7 +24,7 @@ We also included a spreadsheet with extracted tags and characteristics and R.scr
 
 # Citation
 
-Hilasaca, L. H., Gaspar, L. P., Ribeiro, M. C. & Minghim, R. (2021). Soundscape_CCM1_exp01 a acosutic data set with features and labels to visualization and categorization of ecological acoustic events. DOI zenodo CRIAR
+Hilasaca, L. H., Gaspar, L. P., Ribeiro, M. C. & Minghim, R. (2021). Soundscape_CCM1_exp01 a acoustic data set with features and labels to visualization and categorization of ecological acoustic events. DOI zenodo CRIAR
 
 # Contact
 
