@@ -3,6 +3,7 @@
 ## soundscape_CCM1_exp01
 
 This repository presents all data base used in Hilasaca et al. (2021), published on [Ecological Indicators](https://www.sciencedirect.com/science/article/pii/S1470160X20312589?dgcid=rss_sd_all)  DOI 10.1016/j.ecolind.2020.107316. 
+Audio files, labels and features are available.
 
 # Data collect
 
