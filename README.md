@@ -2,8 +2,8 @@
 
 ## soundscape_CCM1_exp01
 
-This repository presents all data base used in Hilasaca et al. (2021), published on [Ecological Indicators](https://www.sciencedirect.com/science/article/pii/S1470160X20312589?dgcid=rss_sd_all)  DOI 10.1016/j.ecolind.2020.107316. 
-Audio files, labels and features are available.
+This repository presents audio files and root labels used in Hilasaca et al. (2021), published on [Ecological Indicators](https://www.sciencedirect.com/science/article/pii/S1470160X20312589?dgcid=rss_sd_all)  DOI 10.1016/j.ecolind.2020.107316. 
+
 
 # Data collect
 
@@ -26,7 +26,7 @@ We also included a spreadsheet with extracted tags and characteristics and R.scr
 
 # Citation
 
-Hilasaca, L. H., Gaspar, L. P., Ribeiro, M. C. & Minghim, R. (2021). Soundscape_CCM1_exp01 a acoustic data set with features and labels to visualization and categorization of ecological acoustic events. DOI zenodo CRIAR
+Hilasaca, L. H., Gaspar, L. P., Ribeiro, M. C. & Minghim, R. (2021). Soundscape_CCM1_exp01 a acoustic data set with features and labels to visualization and categorization of ecological acoustic events.
 
 # Contact
 
